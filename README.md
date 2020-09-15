@@ -12,7 +12,7 @@
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/> &nbsp;&nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/> &nbsp;&nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> &nbsp;&nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"/> &nbsp;&nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/> &nbsp;&nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/> &nbsp;&nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg"/> &nbsp;&nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg"/>&nbsp;&nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"/> &nbsp;&nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/> &nbsp;&nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
 
-## Technologies I've ever used
+## Technologies I've used
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg"/> &nbsp;&nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg"/> &nbsp;&nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg"/> &nbsp;&nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
 
 ## Currently learning technologies
