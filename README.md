@@ -1,5 +1,5 @@
 # Hi, I'm Marcelo and this a summary of my profile. :wave:
- I'm a Jr. Developer and a Informatics Engineer student in thesis process at Universidad Centroamericana José Simeon Cañas (UCA) in El Salvador, with 23 years old.
+ I'm a Jr. Backend Developer and a Informatics Engineer student in thesis process at Universidad Centroamericana José Simeon Cañas (UCA) in El Salvador, with 23 years old.
 
 - I love learning and that's why I always want to learn something new. :books:
 - Coding is one of the things I like the most. :computer:
